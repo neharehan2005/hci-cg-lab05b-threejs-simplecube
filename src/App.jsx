@@ -1,11 +1,9 @@
-//import Cube from "./Cube"
-//import TexturedCube from "./TexturedCube";
-import PremiumEidCubeAllInOne from "./EidCube";
+import Cube from "./Cube"
+
 
 function App() {
-    //return <Cube />;
-    //return <TexturedCube />;
-    return <PremiumEidCubeAllInOne />;
+    return <Cube />;
+    
 }
 
 export default App;

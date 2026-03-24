@@ -26,6 +26,9 @@ This project demonstrates a simple 3D rotating cube using **Three.js** in a **Re
 6. **Resize Handling**: The renderer and camera update automatically on window resize.
 7. **Cleanup**: On component unmount, event listeners are removed, and the renderer is disposed to free memory.
 
+🚀 Live Demo
 
+
+https://hci-cg-lab05b-threejs-simplecube.vercel.app/
 
 

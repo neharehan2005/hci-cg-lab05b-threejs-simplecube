@@ -7,7 +7,7 @@ function Cube() {
   useEffect(() => {
     const mount = mountRef.current;
 
-    // ✅ Ensure mount exists
+    // Ensure mount exists
     if (!mount) return;
 
     // Scene
